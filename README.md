@@ -1,4 +1,4 @@
-# Real-Time Face Liveness Detection System
+# Real-Time Face Liveness Detection
 
 > 🏆 **Conference Accepted Work**  
 > This project was presented and accepted at the **International Conference on Computing and Communication Networks (ICCCNet-2024)**  
